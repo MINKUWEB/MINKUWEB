@@ -1,7 +1,7 @@
 👋 Hi, I’m @abhishek anand,A tech enthusiast , Website ,App developer and Digital Marketer<br>
 ✉️ You can contact me at aviaryan9708@gmail.com<br>
 🚀 I'm currently working on LMS<br>
-🧠 I'm learning MERN<br>
+🧠 I'm working on my Startup<br>
 👀 
 
 Skills<br>
