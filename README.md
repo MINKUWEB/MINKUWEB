@@ -16,7 +16,8 @@ Web Development
 
 
 Socials <br>
-<p align="left" dir="auto"> <a href="https://www.youtube.com/minkuweb"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/minkuweb" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>  <a href="https://www.twitter.com/abhishek_code" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a></p>
+<p align="left" dir="auto"> <a href="https://www.youtube.com/minkuweb"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" style="max-width: 100%;"></a> 
+ <a href="https://www.twitter.com/abhishek_code" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a></p>
    
 <!---
 MINKUWEB/MINKUWEB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
