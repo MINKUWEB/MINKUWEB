@@ -1,25 +1,105 @@
-👋 Hi, I’m @abhishek anand,A tech enthusiast , Website ,App developer and Digital Marketer<br>
-✉️ You can contact me at aviaryan9708@gmail.com<br>
-🚀 I'm currently working on LMS<br>
+<h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
+<h3 align="center">
+Tech Enthusiast | Website Developer | Digital Marketer | Data, ML & Data Science Trainer
+</h3>
 
-Skills<br>
-<img alt="C" src="https://camo.githubusercontent.com/a57fcfd85c1aa5642b0a592c7ef06ebdb570259d18b495409831e39f7c9655a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;"><img alt="C++" src="https://camo.githubusercontent.com/22adfb1d85bcb2de22efe8036b9ba680ccf43a8303ce921c934b994607400754/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c++-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" style="max-width: 100%;"><img alt="Java" src="https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/java-%23ED8B00.svg?&amp;style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/a00abd8cea4105fa1cad91f7235d11206b492f51afeb9b23a25d04e8f36935e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" alt="python" data-canonical-src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/dbbdeebb2a1da0d8867448473dd103127adac6dc4b996830f8e7555f538de171/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465" alt="canva" data-canonical-src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&amp;style=for-the-badge&amp;logo=Canva&amp;logoColor=white" style="max-width: 100%;"><br>
-
-Web Development 
-<p dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"><img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="javascript" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/02914afc1f51d55c8acac01c200a410efd74fffdff325678f6df6c22ae68a7ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="mysql" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/02914afc1f51d55c8acac01c200a410efd74fffdff325678f6df6c22ae68a7ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" alt="php" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a00abd8cea4105fa1cad91f7235d11206b492f51afeb9b23a25d04e8f36935e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/3ff0ab300fb2314dc2b0ee8622e863fdab8bf079afc2d66dc9ec11c0defd2a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726470726573732d3231373539423f7374796c653d666f722d7468652d6261646765266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465" alt="wordpress" data-canonical-src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" style="max-width: 100%;">
+<p align="center">
+  <a href="mailto:aviaryan9708@gmail.com">📧 aviaryan9708@gmail.com</a>
 </p>
 
+---
 
-Socials <br>
-<p align="left" dir="auto"> <a href="https://www.youtube.com/minkuweb"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" style="max-width: 100%;"></a> 
- <a href="https://www.twitter.com/abhishek_code" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a></p>
-   
-<!---
-MINKUWEB/MINKUWEB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+- I build **websites, and data-driven digital products**
+- I **teach, mentor, and train students** in tech, data, ML, and digital skills
+- Comfortable with **development, marketing, analytics, and data science**
+- Believe in tracking, testing, and improving with real data
+
+---
+
+### 🧠 Programming & Core Tools
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Web Development Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Digital Marketing & Analytics
+<p>
+  <img src="https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white"/>
+</p>
+
+---
+
+### 📈 Data Analysis, BI & Visualization
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+**What I do with data & students:**
+- Data cleaning, preprocessing, and transformation
+- SQL queries for analysis and reporting
+- Exploratory Data Analysis (EDA)
+- Dashboards & reports using Power BI and Excel
+- Visual storytelling with charts and insights
+- Teaching data analysis with real-world datasets
+
+---
+
+### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+**Data Science & ML Focus (Build + Train):**
+- Data collection and problem understanding
+- Feature engineering & feature selection
+- Supervised learning (Regression, Classification)
+- Basic unsupervised learning (Clustering)
+- Model evaluation & performance metrics
+- End-to-end ML workflow explanation for students
+- Turning data into business decisions
+
+---
+
+### 🔗 Connect With Me
+<p>
+  <a href="https://www.youtube.com/minkuweb">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32"/>
+  </a>
+  <a href="https://www.twitter.com/abhishek_code">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Build. Teach. Analyze. Improve.
+</p>
